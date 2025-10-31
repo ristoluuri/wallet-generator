@@ -1,0 +1,15 @@
+{
+  "name": "wallet-generator",
+  "version": "1.0.0",
+  "description": "Small Node.js utility demonstrating `ethers.js` usage to generate Ethereum wallets programmatically.  \r Intended as a developer utility example (token / address creation). **This repo does not store or share real private keys**.",
+  "main": "wallet-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.15.0"
+  }
+}
